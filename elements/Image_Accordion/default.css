@@ -34,6 +34,11 @@
   position: absolute;
   bottom: 0;
   right: 0;
+  opacity: 1;
+}
+
+.breakdance .bde-image-accordion .ee-image-accordion-subtitle:hover {  
+  opacity: 0;
 }
 
 .breakdance .bde-image-accordion .ee-image-accordion-item:first-child {
